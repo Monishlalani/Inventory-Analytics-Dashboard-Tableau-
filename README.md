@@ -1,4 +1,4 @@
-# inventory-management-optimizer
+# Inventory Analytics Dashboard
 
 ## Tools and Technology used :
 
